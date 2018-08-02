@@ -1,66 +1,66 @@
-### pythonÓïÑÔ
-2.pythonÃæÏò¶ÔÏó
-3.pythonÉè¼ÆÄ£Ê½(https://github.com/faif/python-patterns)
-4.pythonÔ´ÂëÔÄ¶Á
-5.±àÒëÔ­Àí£¨½âÊÍÆ÷cPython¡¢pypy£©
-5.°ü¹ÜÀípip¡¢virtualenv¡¢setuptools(easy_install)¡¢venv¡¢conda£¨OS-agnostic, system-level binary package manager and ecosystem£¬anaconda·¢ĞĞ°æµÄ°ü¹ÜÀí¹¤¾ß£©
-- PyPI ¨C the Python Package Index ¡¤ PyPI ÊÇpython¹Ù·½µÄÈí¼ş¿â
-- Python Packaging Authority ¡ª PyPA documentation pythonµÚÈı·½°üµÄ¹¤×÷×é£¬ÊÇÒ»¸öÉçÈº×éÖ¯£¬¸ºÔğÎ¬»¤pythonµÄ°ü
-- AnacondaÊÇÒ»ÖÖPythonÓïÑÔµÄÃâ·ÑÔöÖµ ¿ªÔ´·¢ĞĞ°æ£¬ÓÃÓÚ½øĞĞ´ó¹æÄ£Êı¾İ´¦Àí, Ô¤²â·ÖÎö, ºÍ¿ÆÑ§¼ÆËã, ÖÂÁ¦ÓÚ¼ò»¯°üµÄ¹ÜÀíºÍ²¿Êğ¡£ AnacondaÊ¹ÓÃÈí¼ş°ü¹ÜÀíÏµÍ³Conda½øĞĞ°ü¹ÜÀí¡£
-6.Êı¾İ½á¹¹£¨https://www.zhihu.com/question/21318658£©
-6.Ëã·¨£¨https://github.com/linyiqun/DataMiningAlgorithm Êı¾İÍÚ¾ò18´óËã·¨£©
-7.Ó¦ÓÃ-»úÆ÷Ñ§Ï°(https://github.com/josephmisiti/awesome-machine-learning#python)
-- Computer Vision¼ÆËã»úÊÓ¾õ
-- Natural Language Processing×ÔÈ»ÓïÑÔ´¦Àí
-- General-Purpose Machine LearningÍ¨ÓÃ»úÆ÷Ñ§Ï°
-- Data Analysis / Data VisualizationÊı¾İ·ÖÎöÓëÊı¾İ¿ÉÊÓ»¯
-- Misc Scripts / iPython Notebooks / CodebasesÆäËû½Å±¾/iPython±Ê¼Ç±¾/´úÂë¿â
-- Neural NetworksÉñ¾­ÍøÂç
-- Kaggle Competition Source Code kaggle±ÈÈüÔ´´úÂë
-- Reinforcement LearningÇ¿»¯Ñ§Ï°
-- Í³¼ÆÑ§ÖªÊ¶£¨http://open.163.com/special/opencourse/statistics.html£©
-8.Ó¦ÓÃ-GUIÍ¼ĞÎ½çÃæ
+### pythonè¯­è¨€
+2.pythoné¢å‘å¯¹è±¡
+3.pythonè®¾è®¡æ¨¡å¼(https://github.com/faif/python-patterns)
+4.pythonæºç é˜…è¯»
+5.ç¼–è¯‘åŸç†ï¼ˆè§£é‡Šå™¨cPythonã€pypyï¼‰
+5.åŒ…ç®¡ç†pipã€virtualenvã€setuptools(easy_install)ã€venvã€condaï¼ˆOS-agnostic, system-level binary package manager and ecosystemï¼Œanacondaå‘è¡Œç‰ˆçš„åŒ…ç®¡ç†å·¥å…·ï¼‰
+- PyPI â€“ the Python Package Index Â· PyPI æ˜¯pythonå®˜æ–¹çš„è½¯ä»¶åº“
+- Python Packaging Authority â€” PyPA documentation pythonç¬¬ä¸‰æ–¹åŒ…çš„å·¥ä½œç»„ï¼Œæ˜¯ä¸€ä¸ªç¤¾ç¾¤ç»„ç»‡ï¼Œè´Ÿè´£ç»´æŠ¤pythonçš„åŒ…
+- Anacondaæ˜¯ä¸€ç§Pythonè¯­è¨€çš„å…è´¹å¢å€¼ å¼€æºå‘è¡Œç‰ˆï¼Œç”¨äºè¿›è¡Œå¤§è§„æ¨¡æ•°æ®å¤„ç†, é¢„æµ‹åˆ†æ, å’Œç§‘å­¦è®¡ç®—, è‡´åŠ›äºç®€åŒ–åŒ…çš„ç®¡ç†å’Œéƒ¨ç½²ã€‚ Anacondaä½¿ç”¨è½¯ä»¶åŒ…ç®¡ç†ç³»ç»ŸCondaè¿›è¡ŒåŒ…ç®¡ç†ã€‚
+6.æ•°æ®ç»“æ„ï¼ˆhttps://www.zhihu.com/question/21318658ï¼‰
+6.ç®—æ³•ï¼ˆhttps://github.com/linyiqun/DataMiningAlgorithm æ•°æ®æŒ–æ˜18å¤§ç®—æ³•ï¼‰
+7.åº”ç”¨-æœºå™¨å­¦ä¹ (https://github.com/josephmisiti/awesome-machine-learning#python)
+- Computer Visionè®¡ç®—æœºè§†è§‰
+- Natural Language Processingè‡ªç„¶è¯­è¨€å¤„ç†
+- General-Purpose Machine Learningé€šç”¨æœºå™¨å­¦ä¹ 
+- Data Analysis / Data Visualizationæ•°æ®åˆ†æä¸æ•°æ®å¯è§†åŒ–
+- Misc Scripts / iPython Notebooks / Codebaseså…¶ä»–è„šæœ¬/iPythonç¬”è®°æœ¬/ä»£ç åº“
+- Neural Networksç¥ç»ç½‘ç»œ
+- Kaggle Competition Source Code kaggleæ¯”èµ›æºä»£ç 
+- Reinforcement Learningå¼ºåŒ–å­¦ä¹ 
+- ç»Ÿè®¡å­¦çŸ¥è¯†ï¼ˆhttp://open.163.com/special/opencourse/statistics.htmlï¼‰
+8.åº”ç”¨-GUIå›¾å½¢ç•Œé¢
 - Tkinter : Tkinter
 - wxPython: wxPython
 - PyGTK: PyGTK
 - PyQt: PyQt
 - PySide: PySide
-9.Ó¦ÓÃ-Web¿ò¼Ü
-- django£º django
-- web2py£ºweb2py
-- flask£º flask
-- bottle£º bottle
-- tornadoweb £ºtornadoweb
-- webpy£º webpy
-- cherrypy£º cherrypy£¨¸ĞĞ»@¸ÖÇÙÊÖ Ìá¹©ĞÅÏ¢£©
-- jinjs£º jinja£¨¸ĞĞ»@¸ÖÇÙÊÖ Ìá¹©ĞÅÏ¢£©
-10.Ó¦ÓÃ-Êı¾İ²É¼¯
-- scrapy£º scrapy
-- pyspider£º pyspider
-- portia£º portia
-- html2text£º html2text
-- BeautifulSoup£º BeautifulSoup
-- lxml£º lxml
-- selenium£ºselenium
-- mechanize£º mechanize
-- PyQuery£º pyquery
-- creepy£º creepy
-11.Ó¦ÓÃ-ÊµÓÃÂÖ×Ó£¨https://github.com/vinta/awesome-python£©
-- £¨https://zhuanlan.zhihu.com/p/21563130£©
+9.åº”ç”¨-Webæ¡†æ¶
+- djangoï¼š django
+- web2pyï¼šweb2py
+- flaskï¼š flask
+- bottleï¼š bottle
+- tornadoweb ï¼štornadoweb
+- webpyï¼š webpy
+- cherrypyï¼š cherrypyï¼ˆæ„Ÿè°¢@é’¢ç´æ‰‹ æä¾›ä¿¡æ¯ï¼‰
+- jinjsï¼š jinjaï¼ˆæ„Ÿè°¢@é’¢ç´æ‰‹ æä¾›ä¿¡æ¯ï¼‰
+10.åº”ç”¨-æ•°æ®é‡‡é›†
+- scrapyï¼š scrapy
+- pyspiderï¼š pyspider
+- portiaï¼š portia
+- html2textï¼š html2text
+- BeautifulSoupï¼š BeautifulSoup
+- lxmlï¼š lxml
+- seleniumï¼šselenium
+- mechanizeï¼š mechanize
+- PyQueryï¼š pyquery
+- creepyï¼š creepy
+11.åº”ç”¨-å®ç”¨è½®å­ï¼ˆhttps://github.com/vinta/awesome-pythonï¼‰
+- ï¼ˆhttps://zhuanlan.zhihu.com/p/21563130ï¼‰
 
 
-### CÓïÑÔ
-- memcached·Ö²¼Ê½¸ßËÙ»º´æÏµÍ³£¨https://github.com/memcached/memcached£©
-- redis¼üÖµ¶Ô´æ´¢Êı¾İ¿â£¨https://github.com/antirez/redis£©
+### Cè¯­è¨€
+- memcachedåˆ†å¸ƒå¼é«˜é€Ÿç¼“å­˜ç³»ç»Ÿï¼ˆhttps://github.com/memcached/memcachedï¼‰
+- redisé”®å€¼å¯¹å­˜å‚¨æ•°æ®åº“ï¼ˆhttps://github.com/antirez/redisï¼‰
 - LevelDB
 - Mongodb
 - Mysql
-- mTCPÓÃÓÚ¶àºËÏµÍ³µÄ¸ß¶È¿ÉÀ©Õ¹µÄÓÃ»§¼¶TCP¶ÑÕ»£¨https://github.com/eunyoung14/mtcp£©
-### GOÓïÑÔ
-- FastDFS ·Ö²¼Ê½ÎÄ¼ş´æ´¢ÏµÍ³£¨https://github.com/happyfish100/fastdfs£©
-- codis»ùÓÚ´úÀíµÄRedis¼¯Èº½â¾ö·½°¸£¬Ö§³Ö¹ÜµÀºÍ¶¯Ì¬À©Õ¹£¨https://github.com/CodisLabs/codis£©
+- mTCPç”¨äºå¤šæ ¸ç³»ç»Ÿçš„é«˜åº¦å¯æ‰©å±•çš„ç”¨æˆ·çº§TCPå †æ ˆï¼ˆhttps://github.com/eunyoung14/mtcpï¼‰
+### GOè¯­è¨€
+- FastDFS åˆ†å¸ƒå¼æ–‡ä»¶å­˜å‚¨ç³»ç»Ÿï¼ˆhttps://github.com/happyfish100/fastdfsï¼‰
+- codisåŸºäºä»£ç†çš„Redisé›†ç¾¤è§£å†³æ–¹æ¡ˆï¼Œæ”¯æŒç®¡é“å’ŒåŠ¨æ€æ‰©å±•ï¼ˆhttps://github.com/CodisLabs/codisï¼‰
 
-### job direction-python¸ßĞÔÄÜweb¿ª·¢
+### job direction-pythoné«˜æ€§èƒ½webå¼€å‘
 - cpython(https://github.com/python/cpython)
 - django(https://github.com/django/django)
 - tornado(https://github.com/tornadoweb/tornado)
@@ -88,7 +88,7 @@
 - qrcode(https://github.com/sylnsfar/qrcode)
 - jupyter(https://github.com/jupyter/jupyter)
 
-### person research-Êı¾İËÑ¼¯¡¢´¦ÀíÓë·ÖÎö
+### person research-æ•°æ®æœé›†ã€å¤„ç†ä¸åˆ†æ
 - scipy/scipy(https://github.com/scipy/scipy)
 - scikit-learn(https://github.com/scikit-learn/scikit-learn)
 - numpy(https://github.com/numpy/numpy)

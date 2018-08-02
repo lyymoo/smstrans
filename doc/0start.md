@@ -3,7 +3,7 @@
 3.python设计模式(https://github.com/faif/python-patterns)
 4.python源码阅读
 5.编译原理（解释器cPython、pypy）
-5.包管理pip、virtualenv、setuptools(easy_install)、conda（OS-agnostic, system-level binary package manager and ecosystem，anaconda发行版的包管理工具）
+5.包管理pip、virtualenv、setuptools(easy_install)、venv、conda（OS-agnostic, system-level binary package manager and ecosystem，anaconda发行版的包管理工具）
 - PyPI – the Python Package Index · PyPI 是python官方的软件库
 - Python Packaging Authority — PyPA documentation python第三方包的工作组，是一个社群组织，负责维护python的包
 - Anaconda是一种Python语言的免费增值 开源发行版，用于进行大规模数据处理, 预测分析, 和科学计算, 致力于简化包的管理和部署。 Anaconda使用软件包管理系统Conda进行包管理。

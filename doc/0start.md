@@ -1,15 +1,16 @@
 ### python语言
-2.python面向对象
-3.python设计模式(https://github.com/faif/python-patterns)
-4.python源码阅读
-5.编译原理（解释器cPython、pypy）
-5.包管理pip、virtualenv、setuptools(easy_install)、venv、conda（OS-agnostic, system-level binary package manager and ecosystem，anaconda发行版的包管理工具）
+1. python面向对象
+2. python设计模式(https://github.com/faif/python-patterns)
+3. python源码阅读
+4. 编译原理（解释器cPython、pypy）
+5. 包管理pip、virtualenv、setuptools(easy_install)、venv、conda（OS-agnostic, system-level binary package manager and ecosystem，anaconda发行版的包管理工具）
 - PyPI – the Python Package Index · PyPI 是python官方的软件库
 - Python Packaging Authority — PyPA documentation python第三方包的工作组，是一个社群组织，负责维护python的包
 - Anaconda是一种Python语言的免费增值 开源发行版，用于进行大规模数据处理, 预测分析, 和科学计算, 致力于简化包的管理和部署。 Anaconda使用软件包管理系统Conda进行包管理。
-6.数据结构（https://www.zhihu.com/question/21318658）
-6.算法（https://github.com/linyiqun/DataMiningAlgorithm 数据挖掘18大算法）
-7.应用-机器学习(https://github.com/josephmisiti/awesome-machine-learning#python)
+- wheel - The official binary distribution format for Python(https://github.com/pypa/wheel)
+6. 数据结构（https://www.zhihu.com/question/21318658）
+7. 算法（https://github.com/linyiqun/DataMiningAlgorithm 数据挖掘18大算法）
+8. 应用-机器学习(https://github.com/josephmisiti/awesome-machine-learning#python)
 - Computer Vision计算机视觉
 - Natural Language Processing自然语言处理
 - General-Purpose Machine Learning通用机器学习
@@ -19,13 +20,13 @@
 - Kaggle Competition Source Code kaggle比赛源代码
 - Reinforcement Learning强化学习
 - 统计学知识（http://open.163.com/special/opencourse/statistics.html）
-8.应用-GUI图形界面
+9. 应用-GUI图形界面
 - Tkinter : Tkinter
 - wxPython: wxPython
 - PyGTK: PyGTK
 - PyQt: PyQt
 - PySide: PySide
-9.应用-Web框架
+10. 应用-Web框架
 - django： django
 - web2py：web2py
 - flask： flask
@@ -34,7 +35,7 @@
 - webpy： webpy
 - cherrypy： cherrypy（感谢@钢琴手 提供信息）
 - jinjs： jinja（感谢@钢琴手 提供信息）
-10.应用-数据采集
+11. 应用-数据采集
 - scrapy： scrapy
 - pyspider： pyspider
 - portia： portia
@@ -45,7 +46,7 @@
 - mechanize： mechanize
 - PyQuery： pyquery
 - creepy： creepy
-11.应用-实用轮子（https://github.com/vinta/awesome-python）
+12. 应用-实用轮子（https://github.com/vinta/awesome-python）
 - （https://zhuanlan.zhihu.com/p/21563130）
 
 
@@ -94,3 +95,10 @@
 - numpy(https://github.com/numpy/numpy)
 - pandas(https://github.com/pandas-dev/pandas)
 - matplotlib(https://github.com/matplotlib/matplotlib)
+
+### python 先01
+1. python official document
+2. python基础教程、入门教程、核心编程
+2. python源码分析影印版
+3. python源码分析文字版
+4. python的设计模式

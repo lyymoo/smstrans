@@ -23,19 +23,15 @@
 ### whetting your appetite
 ### using the python interpreter
 ### an infomal introduction to python
-### more control flow tools
-### data structures
-### modules
-### input and output
-### error and exception
-### classes
-### brief tour of the standard library
-### virtual environments and packages
-### 
+
 
 ## The Python Standard Library
 
 ## The Python Language Reference
+
+## Python Setup and Usage
+
+## Python HOWTOs
 
 ## Installing Python Modules
 

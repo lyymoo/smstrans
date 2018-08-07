@@ -101,4 +101,5 @@
 2. python基础教程、入门教程、核心编程
 2. python源码分析影印版
 3. python源码分析文字版
-4. python的设计模式
+4. python的面向对象
+5. python的设计模式

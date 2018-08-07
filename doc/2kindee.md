@@ -55,3 +55,6 @@
 - 多语言文本翻译
 ### 快递100
 - 快递100物流公司列表
+```
+PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81 bytes) in /data/wwwroot/huache_erp/sino/application/post/controller/Bill.php on line 274
+```

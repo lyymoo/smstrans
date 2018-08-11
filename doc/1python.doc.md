@@ -23,6 +23,8 @@
 ### whetting your appetite
 ### using the python interpreter
 ### an infomal introduction to python
+### more control flow tools
+### data structures
 
 
 ## The Python Standard Library

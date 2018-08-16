@@ -25,6 +25,12 @@
 ### an infomal introduction to python
 ### more control flow tools
 ### data structures
+- list
+- tuple
+- sets
+- dictionary
+### modules
+
 
 
 ## The Python Standard Library

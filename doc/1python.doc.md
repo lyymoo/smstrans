@@ -8,22 +8,61 @@
 - security improvements
 - windows improvements
 ### new features
-### other language changes
+- "f" function
+- variable annotations
+- >>> 1_000_000_000_000_000
+- asynchronous
+- pathlib
+- disambiguation
+- change windows filesystem/console encoding to UTF8
+- presering order
+- frame evaluation
+- pythonmalloc
+- probing support
+- other language changes
 ### new modules
+- secrets
 ### improved modules
+- array,ast,asyncio,binascii,cmath,collections,concurrent,contextlib,datetime,decimal
+- distutils,email,encoding,enum,faulthandle,fileinput,hashlib,http.client,idlelib,
+- importlib,inspact,json,logging,math,mutiprocessing,os,pathlib,pickle,pickletools
+- ~ pickle(serialization,marshalling:save from memory to disk or send to network) ~
+- pydoc,random,re,readline,rlcompleter,shlex,sqlite3,socket,socketserver,ssl,statistics
+- struct,subprocess,sys,telnetlib,time,timeit,tkinter,taceback,tracemalloc,typing,
+- unicodedata,unittest.mock,urllib.request,urllib.robotparser,venv,warnings,winreg,
+- winsound,xmlrpc.client,zipfile,zlib
 ### optimizations
 ### build and c api changes
 ### other improvements
 ### deprecated
+- deprecated modules,function,methods:
+- asynchat,asyncore,dbm,distutils,grp,importlib,os,re,ssl,tkinter,venv
 ### removed
 ### porting to python 3.6
 ### Notable changes in Python 3.6.2
 
 ## Tutorial
 ### whetting your appetite
+- high-level language
 ### using the python interpreter
+- invoking the interpreter type:run python
+- python -c or python -m
+- interactive mode:">>>"
+- interpreter and environment
+- # -*- coding: encoding -*-
+- #!/usr/bin/env python3
 ### an infomal introduction to python
+- use python as a calculator
+- first steps towards programming
 ### more control flow tools
+- if,for,range,break,continue,else,pass,while
+- defining functions
+- default argument(a="" form),keyword argument(a,b,c form)
+- arbitrary argument list(*args form)
+- unpacking argument list(unpack *args form)
+- lambda expressions,documentation strings description
+- function annotations
+- intermezzo:PEP8(python coding style)
 ### data structures
 - list
 - tuple
@@ -59,6 +98,13 @@
 - output formatting:reprlib,pprint,textwrap
 - the string module Templating
 - binary data record layouts:struct,unpack,
+- multi-threading
+- logging:critical error,use in multiprocess:ConcurrentLogHandler 0.9.1,pip install ConcurrentLogHandler==0.9.1
+- week references:weakref,gc(garbage collection)
+- working lists tool:array,collections.deque(),bisect(sorted lists),heapq
+- Decimal Floating Point Arithmetic:decimal,round,sum
+### virtual environments and packages
+- internal module:venv;third module:virtualenv etc.
 ## The Python Standard Library
 
 ## The Python Language Reference

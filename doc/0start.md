@@ -48,6 +48,7 @@
 - creepy： creepy
 12. 应用-实用轮子（https://github.com/vinta/awesome-python）
 - （https://zhuanlan.zhihu.com/p/21563130）
+13. hls流媒体传输协议（m3u8）
 
 
 ### C语言
@@ -99,7 +100,7 @@
 ### python 先01
 1. python official document
 2. python基础教程、入门教程、核心编程
-2. python源码分析影印版
-3. python源码分析文字版
-4. python的面向对象
-5. python的设计模式
+3. python源码分析影印版
+4. python源码分析文字版
+5. python的面向对象
+6. python的设计模式

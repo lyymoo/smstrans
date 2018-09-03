@@ -104,3 +104,26 @@
 4. python源码分析文字版
 5. python的面向对象
 6. python的设计模式
+
+### github awesome 进阶学习
+- 利用Python进行数据分析(https://github.com/BrambleXu/pydata-notebook)
+- The Flask Mega-Tutorial教程(https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh)
+- 数据挖掘18大算法实现以及其他相关经典DM算法(https://github.com/linyiqun/DataMiningAlgorithm)
+- python-patterns设计模式(https://github.com/faif/python-patterns)
+- 设计模式(https://github.com/me115/design_patterns)
+- open-source-mac-os-apps(https://github.com/serhii-londar/open-source-mac-os-apps)
+- 收集所有区块链(BlockChain)技术开发相关资料(https://github.com/chaozh/awesome-blockchain-cn)
+- A curated list of awesome Machine Learning(https://github.com/josephmisiti/awesome-machine-learning)
+- Awesome Deep Learning(https://github.com/ChristosChristofidis/awesome-deep-learning)
+- 后端架构师技术图谱(https://github.com/xingshaocheng/architect-awesome)
+- 中文版 Apple 官方 Swift 教程(https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
+- 深度学习专项课程(https://github.com/HuangCongQing/deeplearning.ai-note)
+- 经典编程书籍大全(https://github.com/jobbole/awesome-programming-books)
+- 后端开发面试题(https://github.com/monklof/Back-End-Developer-Interview-Questions)
+- 前端开发面试问题及答案整理(https://github.com/BearD01001/front-end-QA-to-interview)
+- GitHub最全的前端资源汇总仓库(https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
+- 《The AWK Programming Language》中文翻译(https://github.com/youngsterxyf/The-AWK-Book-cn)
+- 全栈增长工程师指南(https://github.com/phodal/growth-ebook)
+- 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》(https://github.com/hustcc/JS-Sorting-Algorithm)
+- 免费的计算机编程类中文书籍(https://github.com/justjavac/free-programming-books-zh_CN)
+- PHP 资源大全中文版(https://github.com/jobbole/awesome-php-cn)

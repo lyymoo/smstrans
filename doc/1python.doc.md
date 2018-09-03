@@ -104,7 +104,9 @@
 - working lists tool:array,collections.deque(),bisect(sorted lists),heapq
 - Decimal Floating Point Arithmetic:decimal,round,sum
 ### virtual environments and packages
-- internal module:venv;third module:virtualenv etc.
+- internal module:venv; third module: virtualenv etc.
+- managing packages with pip; third module: Anaconda(conda)
+### What Now?
 ## The Python Standard Library
 
 ## The Python Language Reference

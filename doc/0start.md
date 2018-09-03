@@ -126,4 +126,5 @@
 - 全栈增长工程师指南(https://github.com/phodal/growth-ebook)
 - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》(https://github.com/hustcc/JS-Sorting-Algorithm)
 - 免费的计算机编程类中文书籍(https://github.com/justjavac/free-programming-books-zh_CN)
+- 设计模式：PHP和Go语言实现(https://github.com/hoohack/DesignPattern)
 - PHP 资源大全中文版(https://github.com/jobbole/awesome-php-cn)

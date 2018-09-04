@@ -117,7 +117,49 @@
 ### floating point arithmetic: Issues and limitations
 - float in computer hardware as base 2 fractions
 - representation error
+### appendix
+- error handing: control-c
+- executable python script: #!/usr/bin/env python3.5, $ chmod +x myscript.py
+- the interactive startup file
+- the customization modules
 ## The Python Standard Library
+### introduction
+### built-in function
+### built-in constants
+### built-in types
+### built-in exceptions
+### text processing services
+### binary data services
+### data types
+### numeric and mathematical modules
+### functional programming modules
+### file and directory access
+### data persistence
+### data compression and archiving
+### file formats
+### cryptographic services
+### generic operating system services
+### concurrent execution
+### interprocess communication and networking
+### internet data handling
+### structured markup processing tools
+### internet protocols and support
+### multimedia services
+### internationalization
+### program frameworks
+### graphical user interfaces with TK
+### development tools
+### debugging and profiling
+### software packaging and distribution
+### python runtime services
+### custom python interpreters
+### importing modules
+### python language services
+### miscellaneous services
+### ms windows specific services
+### unix specific services
+### superseded modules
+### undocumented modules
 
 ## The Python Language Reference
 

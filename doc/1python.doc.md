@@ -107,6 +107,16 @@
 - internal module:venv; third module: virtualenv etc.
 - managing packages with pip; third module: Anaconda(conda)
 ### What Now?
+- python resources
+- more python resources
+- frequently asked questions
+### interactive input and history subsititution
+- tab completion and history editing
+- alternatives to interactive interpreter
+- enhanced interactive environment is IPython and bpython
+### floating point arithmetic: Issues and limitations
+- float in computer hardware as base 2 fractions
+- representation error
 ## The Python Standard Library
 
 ## The Python Language Reference

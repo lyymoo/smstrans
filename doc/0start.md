@@ -24,8 +24,8 @@
 - Tkinter : Tkinter
 - wxPython: wxPython
 - PyGTK: PyGTK
-- PyQt: PyQt
-- PySide: PySide
+- PyQt: PyQt、PyQt5、PyQt5-sip
+- PySide: PySide、PySide2
 10. 应用-Web框架
 - django： django
 - web2py：web2py
@@ -128,3 +128,19 @@
 - 免费的计算机编程类中文书籍(https://github.com/justjavac/free-programming-books-zh_CN)
 - 设计模式：PHP和Go语言实现(https://github.com/hoohack/DesignPattern)
 - PHP 资源大全中文版(https://github.com/jobbole/awesome-php-cn)
+
+### ipython/jupyter notebook/data science
+- Ipython(https://github.com/ipython/ipython)
+- 数据科学Python笔记本(https://github.com/donnemartin/data-science-ipython-notebooks)
+- IPython-Dashboard(https://github.com/litaotao/IPython-Dashboard)
+- IPython in-depth Tutorial(https://github.com/ipython/ipython-in-depth)
+- %%sql magic for IPython(https://github.com/catherinedevlin/ipython-sql)
+- IPython Notebooks(https://github.com/jdwittenauer/ipython-notebooks)
+- Various ipython notebooks(https://github.com/julienr/ipynb_playground)
+- 使用python进行科学计算讲座，作为IPython笔记本。(https://github.com/jrjohansson/scientific-python-lectures)
+- Python Data Science Handbook(https://github.com/jakevdp/PythonDataScienceHandbook)
+
+### python量化资料
+- TuShare stock历史数据(https://github.com/waditu/tushare)
+- 匠芯量化(https://github.com/kzil88/JXQuant)
+- tushare金融大数据社区(https://tushare.pro/document/1)

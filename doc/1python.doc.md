@@ -170,3 +170,9 @@
 ## Installing Python Modules
 
 ## Distributing Python Modules
+
+## extending and embedding
+
+## python/c api
+
+## FAQs

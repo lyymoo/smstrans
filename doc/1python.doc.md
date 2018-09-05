@@ -1,4 +1,5 @@
 # 官方文档+cpython开源github工程目录结合阅读
+
 ## what's new in python3.6
 ### summary release highlights
 - new syntax features
@@ -122,6 +123,7 @@
 - executable python script: #!/usr/bin/env python3.5, $ chmod +x myscript.py
 - the interactive startup file
 - the customization modules
+
 ## The Python Standard Library
 ### introduction
 ### built-in function

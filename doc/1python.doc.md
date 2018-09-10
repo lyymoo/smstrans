@@ -178,3 +178,9 @@
 ## python/c api
 
 ## FAQs
+
+## WSGI ASGI
+```
+WSGI is the Web Server Gateway Interface(https://wsgi.readthedocs.io/en/latest)
+ASGI (Asynchronous Server Gateway Interface) is a spiritual successor to WSGI, intended to provide a standard interface between async-capable Python web servers, frameworks, and applications.(https://asgi.readthedocs.io/en/latest/)
+```

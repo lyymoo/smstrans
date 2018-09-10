@@ -72,7 +72,7 @@
 - sqlalchemy ORM(https://github.com/zzzeek/sqlalchemy)
 - SQLObject(https://github.com/sqlobject/sqlobject)
 - Storm A simple ORM for Tornado(https://github.com/ccampbell/storm)
-- pallets/jinja(https://github.com/pallets/jinja)
+- [The Jinja2 template engine](http://jinja.pocoo.org/)pallets/jinja(https://github.com/pallets/jinja)
 - odoo(https://github.com/odoo/odoo)
 - gunicorn(https://github.com/benoitc/gunicorn)
 - python-ngrok(https://github.com/hauntek/python-ngrok)
@@ -128,6 +128,8 @@
 - 免费的计算机编程类中文书籍(https://github.com/justjavac/free-programming-books-zh_CN)
 - 设计模式：PHP和Go语言实现(https://github.com/hoohack/DesignPattern)
 - PHP 资源大全中文版(https://github.com/jobbole/awesome-php-cn)
+- RESTful API 设计参考文献列表(https://github.com/aisuhua/restful-api-design-references)
+- 优秀REST风格 API的设计原则(https://blog.csdn.net/houjixin/article/details/54315835)
 
 ### ipython/jupyter notebook/data science
 - Ipython(https://github.com/ipython/ipython)

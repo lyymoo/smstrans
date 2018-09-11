@@ -81,6 +81,7 @@
 - requests(https://github.com/requests/requests)
 - mysqlclient(https://github.com/PyMySQL/mysqlclient-python)
 - django channels(https://github.com/django/channels)
+- Accounts for Django(https://github.com/bread-and-pepper/django-userena)
 - celery(https://github.com/celery/celery)
 - salt(https://github.com/saltstack/salt)
 - redis-py(https://github.com/andymccurdy/redis-py)

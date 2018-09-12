@@ -73,6 +73,7 @@
 - SQLObject(https://github.com/sqlobject/sqlobject)
 - Storm A simple ORM for Tornado(https://github.com/ccampbell/storm)
 - [The Jinja2 template engine](http://jinja.pocoo.org/)pallets/jinja(https://github.com/pallets/jinja)
+- [Asynchronous HTTP client/server framework for asyncio and Python](https://github.com/aio-libs/aiohttp)
 - odoo(https://github.com/odoo/odoo)
 - gunicorn(https://github.com/benoitc/gunicorn)
 - python-ngrok(https://github.com/hauntek/python-ngrok)

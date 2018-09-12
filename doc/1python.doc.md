@@ -127,6 +127,14 @@
 ## The Python Standard Library
 ### introduction
 ### built-in function
+- [that are now builtin modules](https://github.com/python/cpython/tree/master/Modules)
+- about mathematical
+- about sequence
+- about object
+- about string and character
+- about binary conversion
+- about data structure
+- about sequence process
 ### built-in constants
 ### built-in types
 ### built-in exceptions
@@ -183,4 +191,12 @@
 ```
 WSGI is the Web Server Gateway Interface(https://wsgi.readthedocs.io/en/latest)
 ASGI (Asynchronous Server Gateway Interface) is a spiritual successor to WSGI, intended to provide a standard interface between async-capable Python web servers, frameworks, and applications.(https://asgi.readthedocs.io/en/latest/)
+-  ★重构shadowsocks随时随地使用受保护的通道★
+1. 重构python版local，加入类似windows版的负载均衡(load balancing)、高可用(High availability)模式
+2. 重构sock5代理端口1080，使之增加身份认证
+3. 实现一个http、sock5代理服务器
+4. 参考资料[免费ss账号](https://github.com/max2max/freess), [HTTP/HTTPs/Socks5 proxy](https://github.com/ring04h/wyproxy), 
+5. [shadowsocks](https://github.com/shadowsocks/shadowsocks), [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
+6. [gfwlist](https://github.com/gfwlist/gfwlist),[python proxy](https://github.com/qwj/python-proxy)
+7. [ProxyBroker](https://github.com/constverum/ProxyBroker)
 ```

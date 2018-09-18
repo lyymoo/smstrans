@@ -196,7 +196,7 @@
 ```
 WSGI is the Web Server Gateway Interface(https://wsgi.readthedocs.io/en/latest)
 ASGI (Asynchronous Server Gateway Interface) is a spiritual successor to WSGI, intended to provide a standard interface between async-capable Python web servers, frameworks, and applications.(https://asgi.readthedocs.io/en/latest/)
--  ★重构shadowsocks随时随地使用受保护的通道★
+-  ★重构shadowsocks随时随地使用受保护的通道★study
 1. 重构python版local，加入类似windows版的负载均衡(load balancing)、高可用(High availability)模式
 2. 重构sock5代理端口1080，使之增加身份认证
 3. 实现一个http、sock5代理服务器
@@ -204,6 +204,7 @@ ASGI (Asynchronous Server Gateway Interface) is a spiritual successor to WSGI, i
 5. [shadowsocks](https://github.com/shadowsocks/shadowsocks), [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
 6. [gfwlist](https://github.com/gfwlist/gfwlist),[python proxy](https://github.com/qwj/python-proxy)
 7. [ProxyBroker](https://github.com/constverum/ProxyBroker)
+8. [mitmproxy](https://github.com/mitmproxy/mitmproxy)
 ```
 
 # django/channels(https://channels.readthedocs.io/en/latest/introduction.html)

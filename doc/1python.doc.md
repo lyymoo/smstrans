@@ -136,7 +136,10 @@
 - about data structure
 - about sequence process
 ### built-in constants
+- False, True, None, NotImplemented, Ellipsis
+- module site: this module is automatically imported during initialization
 ### built-in types
+- 
 ### built-in exceptions
 ### text processing services
 ### binary data services
@@ -151,6 +154,11 @@
 ### generic operating system services
 ### concurrent execution
 ### interprocess communication and networking
+- socket - low-level networking interface
+- ssl - tls/ssl wrapper for socket objects
+- select - waiting for I/O completion
+- selectors - high-level I/O multiplexing
+- asyncio - asynchronous I/O, event loop, coroutines and tasks
 ### internet data handling
 ### structured markup processing tools
 ### internet protocols and support

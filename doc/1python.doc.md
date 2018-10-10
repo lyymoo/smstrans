@@ -139,9 +139,33 @@
 - False, True, None, NotImplemented, Ellipsis
 - module site: this module is automatically imported during initialization
 ### built-in types
-- 
+- true value testing/boolean operation/comparisons
+- numeric type - integer float complex
+- iterator type - __iter__() __next__()
+- sequence type - list tuple range
+- text sequence type - str
+- binary sequence type - bytes bytearray memoryview
+- set type - set frozenset
+- mapping type - dict
+- context manager type - with statement
+- other built-in type - modules, class, functions, methods, code object,
+- type object, the null object, the ellipsis objects, the noimplatemented
+- object, boolean values, internal objects
+- special attributes
 ### built-in exceptions
+- base classes: BaseException, Exception...
+- concrete exception: usually exceptions, Os exceptions
+- warnings
+- exception hierarchy
 ### text processing services
+- string: common string operations - constants/custom string formatting and syntax
+- re: regular expression operations - syntax/function/expression
+- difflib: helpers for computing deltas - SequenceMatcher/Diff object
+- textwrap: text wrapping and filling
+- unicodedata: Unicode Database
+- string prep: internet string preparation
+- readline: GNU readline interface
+- rlcomplete: completion function for GNU readline
 ### binary data services
 ### data types
 ### numeric and mathematical modules

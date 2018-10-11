@@ -167,22 +167,107 @@
 - readline: GNU readline interface
 - rlcomplete: completion function for GNU readline
 ### binary data services
+- struct — Interpret bytes as packed binary data
+- codecs — Codec registry and base classes
 ### data types
+- datetime — Basic date and time types
+- calendar — General calendar-related functions
+- collections — Container datatypes
+- collections.abc — Abstract Base Classes for Containers
+- heapq — Heap queue algorithm
+- bisect — Array bisection algorithm
+- array — Efficient arrays of numeric values
+- types — Dynamic type creation and names for built-in types
+- copy — Shallow and deep copy operations
+- pprint — Data pretty printer
+- reprlib — Alternate repr() implementation
+- enum — Support for enumerations
 ### numeric and mathematical modules
+- numbers — Numeric abstract base classes
+- math — Mathematical functions
+- cmath — Mathematical functions for complex numbers
+- decimal — Decimal fixed point and floating point arithmetic
+- fractions — Rational numbers
+- random — Generate pseudo-random numbers
+- statistics — Mathematical statistics functions
 ### functional programming modules
+- itertools — Functions creating iterators for efficient looping
+- functools — Higher-order functions and operations on callable objects
+- operator — Standard operators as functions
 ### file and directory access
+- pathlib — Object-oriented filesystem paths
+- os.path — Common pathname manipulations
+- fileinput — Iterate over lines from multiple input streams
+- stat — Interpreting stat() results
+- filecmp — File and Directory Comparisons
+- tempfile — Generate temporary files and directories
+- glob — Unix style pathname pattern expansion
+- fnmatch — Unix filename pattern matching
+- linecache — Random access to text lines
+- shutil — High-level file operations
+- macpath — Mac OS 9 path manipulation functions
 ### data persistence
+- pickle — Python object serialization
+- copyreg — Register pickle support functions
+- shelve — Python object persistence
+- marshal — Internal Python object serialization
+- dbm — Interfaces to Unix “databases”
+- sqlite3 — DB-API 2.0 interface for SQLite databases
 ### data compression and archiving
+- zlib — Compression compatible with gzip
+- gzip — Support for gzip files
+- bz2 — Support for bzip2 compression
+- lzma — Compression using the LZMA algorithm
+- zipfile — Work with ZIP archives
+- tarfile — Read and write tar archive files
 ### file formats
+- csv — CSV File Reading and Writing
+- configparser — Configuration file parser
+- netrc — netrc file processing
+- xdrlib — Encode and decode XDR data
+- plistlib — Generate and parse Mac OS X .plist files
 ### cryptographic services
+- hashlib — Secure hashes and message digests
+- hmac — Keyed-Hashing for Message Authentication
+- secrets — Generate secure random numbers for managing secrets
 ### generic operating system services
+- os — Miscellaneous operating system interfaces
+- io — Core tools for working with streams
+- time — Time access and conversions
+- argparse — Parser for command-line options, arguments and sub-commands
+- getopt — C-style parser for command line options
+- logging — Logging facility for Python
+- logging.config — Logging configuration
+- logging.handlers — Logging handlers
+- getpass — Portable password input
+- curses — Terminal handling for character-cell displays
+- curses.textpad — Text input widget for curses programs
+- curses.ascii — Utilities for ASCII characters
+- curses.panel — A panel stack extension for curses
+- platform — Access to underlying platform’s identifying data
+- errno — Standard errno system symbols
+- ctypes — A foreign function library for Python
 ### concurrent execution
+- threading — Thread-based parallelism
+- multiprocessing — Process-based parallelism
+- The concurrent package
+- concurrent.futures — Launching parallel tasks
+- subprocess — Subprocess management
+- sched — Event scheduler
+- queue — A synchronized queue class
+- dummy_threading — Drop-in replacement for the threading module
+- _thread — Low-level threading API
+- _dummy_thread — Drop-in replacement for the _thread module
 ### interprocess communication and networking
-- socket - low-level networking interface
-- ssl - tls/ssl wrapper for socket objects
-- select - waiting for I/O completion
-- selectors - high-level I/O multiplexing
-- asyncio - asynchronous I/O, event loop, coroutines and tasks
+- socket — Low-level networking interface
+- ssl — TLS/SSL wrapper for socket objects
+- select — Waiting for I/O completion
+- selectors — High-level I/O multiplexing
+- asyncio — Asynchronous I/O, event loop, coroutines and tasks
+- asyncore — Asynchronous socket handler
+- asynchat — Asynchronous socket command/response handler
+- signal — Set handlers for asynchronous events
+- mmap — Memory-mapped file support
 ### internet data handling
 ### structured markup processing tools
 ### internet protocols and support

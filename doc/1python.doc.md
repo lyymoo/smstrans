@@ -268,6 +268,11 @@
 - asynchat — Asynchronous socket command/response handler
 - signal — Set handlers for asynchronous events
 - mmap — Memory-mapped file support
+> stop reading word for word. 
+> 
+> find reading as needed. 
+> 
+> ———— moz 20181012
 ### internet data handling
 ### structured markup processing tools
 ### internet protocols and support

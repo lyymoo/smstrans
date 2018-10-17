@@ -91,7 +91,11 @@
 - XlsxWriter(https://github.com/jmcnamara/XlsxWriter)
 - qrcode(https://github.com/sylnsfar/qrcode)
 - jupyter(https://github.com/jupyter/jupyter)
-
+### 服务开发：同步事件循环、异步事件循环
+> IO复用、I/O事件通知机制 even loop/deamon：select (Unix)、poll、epoll、kqueue
+> https://zh.wikipedia.org/wiki/Select_(Unix)
+- shadowsocks(https://github.com/shadowsocks/shadowsocks)
+- python-proxy(https://github.com/qwj/python-proxy)
 ### person research-数据搜集、处理与分析
 - scipy/scipy(https://github.com/scipy/scipy)
 - scikit-learn(https://github.com/scikit-learn/scikit-learn)

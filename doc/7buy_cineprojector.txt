@@ -1,6 +1,8 @@
 
     """
-    极米H2：https://detail.tmall.com/item.htm?id=566378533689
+    极米H2比价：https://detail.tmall.com/item.htm?id=566378533689
+    https://item.jd.com/7853214.html
+    https://product.suning.com/0000000000/10547796101.html
     3799
     亮度: 1350ANSI流明
     缩放比: 1.2:1
@@ -12,7 +14,9 @@
     #卖点：不虚标流明、运动补偿、曼哈卡顿音响、
            自动校正画面、自动镜头盖、声纹识别、
            可变光圈、自动对焦、儿童桌面
-
+    评测：http://zhongce.sina.com.cn/report/view/3446/
+    http://www.jiguo.com/article/article/63582.html
+    http://m.jiguo.com/article/article/63400.html
     
     
     坚果（JmGO）J6S：https://item.jd.com/5997920.html
@@ -26,6 +30,7 @@
     整机功耗(W)：90W
     净重(KG)：2.4KG
     
+
     天猫魔屏S2：https://detail.tmall.com/item.htm?id=559369546276
     3699
     机体尺寸（cm）: 210*210*135mm

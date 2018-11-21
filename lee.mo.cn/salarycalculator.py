@@ -71,6 +71,7 @@ housing_provident_fund_reserve
 
 # 公式1
 taxable_income = income_all - all_social_security_amount - 5000
+# 速算扣除数如下
 level_3 = 36000 / 12
 level_10 = 144000 / 12
 level_20 = 300000 / 12

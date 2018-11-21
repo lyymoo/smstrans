@@ -152,3 +152,23 @@
 - TuShare stock历史数据(https://github.com/waditu/tushare)
 - 匠芯量化(https://github.com/kzil88/JXQuant)
 - tushare金融大数据社区(https://tushare.pro/document/1)
+
+### BSD操作系统家族
+> [BSD](https://www.bsd.org/) Apple Mac OS X、The DragonFly BSD Project、FreeBSD、m0n0wall、The NetBSD Project、
+> The OpenBSD Project、OpenDarwin、PC-BSD、PicoBSD、TrustedBSD
+> [BSD家族](https://zh.wikipedia.org/wiki/BSD)
+> [offical site](https://www.freebsd.org/)
+> FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms. 
+> A large community has continually developed it for more than thirty years. Its advanced networking, 
+> security, and storage features have made FreeBSD the platform of choice for many of the busiest web sites 
+> and most pervasive embedded networking and storage devices.
+> BSD变种的用户比例条形图: FreeBSD 77%, OpenBSD 32.8%, NetBSD 16.3%, DragonFly BSD 2.6%, Other 6.6%
+- [FreeBSD](https://zh.wikipedia.org/wiki/FreeBSD) [中文手册](https://www.freebsd.org/doc/zh_CN/books/handbook/)
+- [TrueOS](https://www.trueos.org/) PC-BSD evolves into TrueOS
+- [DesktopBSD](https://zh.wikipedia.org/wiki/DesktopBSD)
+- [GhostBSD](https://zh.wikipedia.org/wiki/GhostBSD)
+- FreeNAS，一个基于FreeBSD的NAS轻量级服务器
+
+
+
+

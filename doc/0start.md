@@ -49,6 +49,7 @@
 12. 应用-实用轮子（https://github.com/vinta/awesome-python）
 - （https://zhuanlan.zhihu.com/p/21563130）
 13. hls流媒体传输协议（m3u8）
+- HLS (HTTP Live Streaming)是Apple的动态码率自适应技术
 
 
 ### C语言

@@ -48,6 +48,7 @@
 - creepy： creepy
 12. [应用-实用轮子](https://github.com/vinta/awesome-python)
 - （https://zhuanlan.zhihu.com/p/21563130）
+- elasticsearch弹性搜索
 13. hls流媒体传输协议（m3u8）
 - HLS(http Live Streaming)是Apple的动态码率自适应技术
 
@@ -104,6 +105,30 @@
 - [numpy](https://github.com/numpy/numpy)
 - [pandas](https://github.com/pandas-dev/pandas)
 - [matplotlib](https://github.com/matplotlib/matplotlib)
+### 高性能微服务python后端异步方案
+- [基于 Sanic 的微服务基础架构](https://www.v2ex.com/t/417601)
+```
+Feature:
+使用sanic异步框架，简单，轻量，高效。
+使用uvloop为核心引擎，使sanic在很多情况下单机并发甚至不亚于Golang。
+使用asyncpg为数据库驱动，进行数据库连接，执行sql语句执行。
+使用aiohttp为Client，对其他微服务进行访问。
+使用peewee为ORM，但是只是用来做模型设计和migration。
+使用opentracing为分布式追踪系统。
+使用unittest做单元测试，并且使用mock来避免访问其他微服务。
+使用swagger做API标准，能自动生成API文档。
+```
+- [sanic](https://github.com/huge-success/sanic)
+- [sanic-ms](https://github.com/songcser/sanic-ms)
+- 使用[asyncpg](https://github.com/MagicStack/asyncpg)为数据库驱动，进行数据库连接，执行 sql 语句执行。
+- [aiomysql](https://github.com/aio-libs/aiomysql)
+- [slim web framework based on aiohttp and peewee/asyncpg](https://github.com/fy0/slim)
+- [WTForms](https://github.com/wtforms/wtforms/) is a flexible forms validation and rendering library for Python web development
+- [aiohttp](https://github.com/aio-libs/aiohttp)
+- [msgpack-python]serialization(https://github.com/msgpack/msgpack-python)
+- aiosmtplib异步邮件客户端
+- [aioauth-client](https://github.com/klen/aioauth-client)异步认证
+- aioredis异步redis
 
 ### python 先01
 1. python official document

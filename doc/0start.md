@@ -66,18 +66,18 @@
 
 ### job direction-python高性能web开发
 - [cpython](https://github.com/python/cpython)
-- [django](https://github.com/django/django)
-- [tornado](https://github.com/tornadoweb/tornado)
-- [webpy](https://github.com/webpy/webpy)
-- [flask](https://github.com/pallets/flask)
-- [twisted](https://github.com/twisted/twisted)
+- [django](https://github.com/django/django) 20050721
+- [tornado](https://github.com/tornadoweb/tornado) 2009
+- [webpy](https://github.com/webpy/webpy) 23 Feb 2006
+- [flask](https://github.com/pallets/flask) 2010年4月1日
+- [twisted](https://github.com/twisted/twisted) event-driven 2000
 - [sqlalchemy ORM](https://github.com/zzzeek/sqlalchemy)
 - [peewee](https://github.com/coleifer/peewee)
 - [SQLObject](https://github.com/sqlobject/sqlobject)
 - [Storm A simple ORM for Tornado](https://github.com/ccampbell/storm)
 - [The Jinja2 template engine](http://jinja.pocoo.org/)pallets/jinja](https://github.com/pallets/jinja)
 - [Asynchronous HTTP client/server framework for asyncio and Python](https://github.com/aio-libs/aiohttp)
-- [odoo](https://github.com/odoo/odoo)
+- [odoo](https://github.com/odoo/odoo) ERP
 - [gunicorn](https://github.com/benoitc/gunicorn)
 - [python-ngrok](https://github.com/hauntek/python-ngrok)
 - [python-ngrokd](https://github.com/hauntek/python-ngrokd)

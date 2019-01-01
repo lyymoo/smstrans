@@ -122,13 +122,14 @@ Feature:
 - [sanic-ms](https://github.com/songcser/sanic-ms)
 - 使用[asyncpg](https://github.com/MagicStack/asyncpg)为数据库驱动，进行数据库连接，执行 sql 语句执行。
 - [aiomysql](https://github.com/aio-libs/aiomysql)
-- [slim web framework based on aiohttp and peewee/asyncpg](https://github.com/fy0/slim)
+- [slim web framework based on aiohttp and peewee/asyncpg](https://github.com/fy0/slim) https://github.com/fy0/Icarus
 - [WTForms](https://github.com/wtforms/wtforms/) is a flexible forms validation and rendering library for Python web development
 - [aiohttp](https://github.com/aio-libs/aiohttp)
 - [msgpack-python]serialization(https://github.com/msgpack/msgpack-python)
 - aiosmtplib异步邮件客户端
 - [aioauth-client](https://github.com/klen/aioauth-client)异步认证
 - aioredis异步redis
+- ASGI - servers: Daphne, Uvicorn, Hypercorn, uvloop
 ### python web framework
 > https://wiki.python.org/moin/WebFrameworks
 ##### Full-stack frameworks
@@ -145,6 +146,13 @@ Feature:
 - Tornado
 ##### Other
 - Dash
+### 进程监控程序
+- [gaffer](https://github.com/benoitc/gaffer) 来自gunicorn的作者的作品
+- [runit](https://github.com/vulk/runit) C语言写的Unix进程容器
+- [Supervisor](https://github.com/Supervisor/supervisor) python中最常用的进程管理工具，暂不支持python3
+- [Circus](https://github.com/circus-tent/circus) 支持python3优秀
+- Upstart /etc/init/myapp.conf: 系统自带
+- Systemd /etc/systemd/system/gunicorn.service: 系统自带
 
 ### python 先01
 1. python official document

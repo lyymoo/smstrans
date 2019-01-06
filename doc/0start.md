@@ -79,6 +79,7 @@
 - [Asynchronous HTTP client/server framework for asyncio and Python](https://github.com/aio-libs/aiohttp)
 - [odoo](https://github.com/odoo/odoo) ERP
 - [gunicorn](https://github.com/benoitc/gunicorn)
+- [chaussette](https://github.com/circus-tent/chaussette) wsgi server
 - [python-ngrok](https://github.com/hauntek/python-ngrok)
 - [python-ngrokd](https://github.com/hauntek/python-ngrokd)
 - [wechatpy](https://github.com/messense/wechatpy)

@@ -221,6 +221,11 @@ Feature:
 - [GhostBSD](https://zh.wikipedia.org/wiki/GhostBSD)
 - FreeNAS，一个基于FreeBSD的NAS轻量级服务器
 
+### Go语言的学习资料
+- [Go 语言学习资料与社区索引](https://github.com/Unknwon/go-study-index)
+- [Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码](https://github.com/studygolang/studygolang)
+- [使用Go开发区块链](https://github.com/wumansgy/GoAndBlockChainStudy)
+- [Go 夜读](https://github.com/developer-learning/night-reading-go)
 
 
 

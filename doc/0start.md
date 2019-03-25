@@ -217,7 +217,7 @@ Feature:
 > BSD变种的用户比例条形图: FreeBSD 77%, OpenBSD 32.8%, NetBSD 16.3%, DragonFly BSD 2.6%, Other 6.6%
 - [FreeBSD](https://zh.wikipedia.org/wiki/FreeBSD) [中文手册](https://www.freebsd.org/doc/zh_CN/books/handbook/)
 - [TrueOS](https://www.trueos.org/) PC-BSD evolves into TrueOS
-- [DesktopBSD]](https://zh.wikipedia.org/wiki/DesktopBSD)
+- [DesktopBSD](https://zh.wikipedia.org/wiki/DesktopBSD)
 - [GhostBSD](https://zh.wikipedia.org/wiki/GhostBSD)
 - FreeNAS，一个基于FreeBSD的NAS轻量级服务器
 
@@ -227,5 +227,13 @@ Feature:
 - [使用Go开发区块链](https://github.com/wumansgy/GoAndBlockChainStudy)
 - [Go 夜读](https://github.com/developer-learning/night-reading-go)
 
+### 开源的项目管理软件
+- ruby [Redmine项目管理软件](https://github.com/redmine/redmine)
+- java [OpenKM开源文档管理软件](https://github.com/openkm/document-management-system)
+- php [MantisBT(Mantis Bug Tracker) 缺陷管理软件](https://github.com/mantisbt/mantisbt)
+- php [Dokuwiki知识库软件](https://github.com/splitbrain/dokuwiki)
+- C [zabbix企业运维监控](https://github.com/zabbix/zabbix)
+- php [KodExplorer开源文件管理系统](https://github.com/kalcaddle/KodExplorer)
+- C [Seafile开源网盘云存储](https://github.com/haiwen/seafile)
 
 

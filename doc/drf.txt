@@ -1,9 +1,0 @@
-pip install djangorestframework -i https://mirrors.aliyun.com/pypi/simple/
-pip install djangorestframework-jwt -i https://mirrors.aliyun.com/pypi/simple/
-pip install drfdocs -i https://mirrors.aliyun.com/pypi/simple/
-pip install django-rest-swagger -i https://mirrors.aliyun.com/pypi/simple/
-pip install djangorestframework-gis -i https://mirrors.aliyun.com/pypi/simple/
-pip install django-rest-framework-mongoengine -i https://mirrors.aliyun.com/pypi/simple/
-pip install djangorestframework-jsonapi -i https://mirrors.aliyun.com/pypi/simple/
-pip install djangorestframework-filters -i https://mirrors.aliyun.com/pypi/simple/
-pip install djangorestframework-bulk -i https://mirrors.aliyun.com/pypi/simple/

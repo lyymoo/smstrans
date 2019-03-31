@@ -13,7 +13,8 @@ import java.util.ArrayList;
 
 /**
  * Created by moz on 2017/7/25.
- * Modified by moz on 2017/7/27
+ * Modified by moz on 2017/7/27.
+ * Modified by moz on 2017/7/27. add some comment.
  */
 
 public class TransmitReceiver extends BroadcastReceiver {
@@ -23,7 +24,7 @@ public class TransmitReceiver extends BroadcastReceiver {
         SmsMessage msg = null;
         if (null != bundle) {
             Object[] smsObj = (Object[]) bundle.get("pdus");
-            //判断处理 开始
+            // 判断是否同一条短信
             String oldNumber = "";
             int i = 0;
             for (Object object : smsObj) {
@@ -32,12 +33,12 @@ public class TransmitReceiver extends BroadcastReceiver {
                 if (newNumber.equals(oldNumber)){
                     i = i + 1;
                 } else {
-                    //退避
                     oldNumber = newNumber;
                 }
             }
-            //判断处理 结束
+            // 转发的短信文本
             String allMsg = "";
+            // 接收手机号（改成自己的手机号）
             String transmitNunmber = "18621971816";
             int j = 0;
             for (Object object : smsObj) {
@@ -45,13 +46,13 @@ public class TransmitReceiver extends BroadcastReceiver {
                 String number = msg.getOriginatingAddress();
                 String message = msg.getDisplayMessageBody();
                 // 过滤处理 包含特定字符串的短信不转发--开始
-                /*  过滤 01 */
+                /*  过滤 01 不转发流量提醒短信 */
                 if (message.indexOf("您当月累计使用流量") != -1) {
                     continue;
                 }
                 // 过滤处理 包含特定字符串的短信不转发--结束
-                // 拼接处理 开始
                 if (i == 0) {
+                    // 短信直接发送
                     message = number+" "+message;
                     if (transmitNunmber.equals("")){
                         Date date = new Date(msg.getTimestampMillis());
@@ -61,6 +62,7 @@ public class TransmitReceiver extends BroadcastReceiver {
                         transmitMessageTo(transmitNunmber, message);
                     }
                 } else {
+                    // 短信拼接
                     j = j + 1;
                     if (j == 1) {
                         allMsg = number+" "+message;
@@ -68,20 +70,11 @@ public class TransmitReceiver extends BroadcastReceiver {
                         allMsg = allMsg + message;
                     }
                 }
-                // 拼接处理 结束
             }
+            // 短信拼接发送
             if (i > 0) {
                 transmitMessageTo(transmitNunmber, allMsg);
             }
-        }
-    }
-
-    public void transmitMessageToOld(String phoneNumber,String message){//转发短信
-        SmsManager manager = SmsManager.getDefault();
-        /** 切分短信，每七十个汉字切一个，短信长度限制不足七十就只有一个：返回的是字符串的List集合*/
-        List<String> texts =manager.divideMessage(message);//这个必须有
-        for(String text:texts){
-            manager.sendTextMessage(phoneNumber, null, text, null, null);
         }
     }
 
